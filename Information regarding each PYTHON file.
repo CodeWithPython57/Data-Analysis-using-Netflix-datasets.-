@@ -1,0 +1,52 @@
+I used different Python file for different analysis because I want every analysis should be as simple as that possible.
+
+Name of the python file and Analysis in This Python File.
+
+1--
+Category.py: 
+In this file you will find the following info:
+#1: Which movie is listed in which category
+#2: Also can check this with any title also.
+# 3: Comparison of : comedies vs Dramas.
+
+2--
+duration.py
+
+# In this file we will analyse the following points:
+# 1: anlaysis of movie timing or duration. Mostly movie are of x duration .so we find x
+#2: Compare the results of movie duration mostly vs minimum 
+
+3-- 
+netflix_popular.py
+In this file you will find in which year netflix becomes popular by uploading max video per year.
+# In this file you will find when netflix release their first video and last video since Aug2020.
+
+4--
+movie_ortv.py
+# In movie_or_tv.py file We will find how many tv shows and movies are published by  netflix from 2008 to Aug2020
+# Plotting of different result.
+
+5-- 
+old_or_new.py.
+# In this file we will analyse the following points:
+# 1: mostly movie or tv shows of which year ?
+#2: 2018 movies vs 2019 movies example.
+
+6-- shoot.py
+In this file we grab following information
+#1: which movie is shooted in which country
+#2: Which movie is shooted in only one country not more than one country
+#3: Which country is mostly used for shooting that means this is the best country for shooting movies and TVSHow 
+
+7:
+ director.py 
+# In this file you can find  Each and every director name  with movie or TVshow director. Example: Brad Anderson : Movie
+# YOu can find for all and also for any particular director.
+# Mainly you can find : Example: How many TvShows and Movie  are published by Brad Anderson  on Netflix or any director. 
+ 8: title.py
+# In this file you can find the name of all the movies or TVSHOWS
+# Mainly you can find : Apaches movie or TV and 6Years movie or TV show Good people MOvie or TVShow.
+
+So these are the data Analysis regarding Netflix in these Python file.
+If you like data Analysis using Netflix than support me and give a star and share with others also that how much Data Analysis is important for data Scientist.
+
